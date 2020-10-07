@@ -52,6 +52,10 @@ hr{
     grid-column: 1;
     grid-row: 5/30;
     margin: width: 91%;border-right: 1px solid #2b55a2;padding: 10px;}
+.header_img{
+    margin: 0 auto;
+    display: block;
+}
 
 .box4{
     grid-column: 2;
@@ -62,6 +66,8 @@ hr{
     grid-column: 3;
     grid-row: 5/30;
         margin: width: 95%;border-left: 1px solid #2b55a2;padding: 10px;}
+p{
+    color: #555555;}
 /*Footer*/
 .box6{
     grid-column: 1/6;
@@ -72,7 +78,5 @@ hr{
     font-size: 15px;
     text-align: center;
     padding: 10px;}
-img src{
-    align-content: space-around;
-}
+
 
